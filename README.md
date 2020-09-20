@@ -4,8 +4,8 @@
 
 __[Click here to see the App in Action](https://drive.google.com/file/d/166xJmxUSOH-RG38OuWEifYNKinDXYyhZ/view)__
 
-### Below is a read me generated from the application. 
-### It contains a specific description of this app. (disregard the Licences)
+### Below is a readme.md generated from the application. 
+### It contains a specific descriptions of this app. (disregard the Licences)
 <hr>
 <hr>
 <hr>
