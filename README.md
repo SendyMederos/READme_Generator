@@ -1,6 +1,6 @@
 # ReadMe Generator
-
-### The below link is a demo video of the app.
+![App Demo](https://media.giphy.com/media/QB2tMyNwnk9q4NxrdK/giphy.gif)
+### The link below is a demo video of the app.
 
 __[Click here to see the App in Action](https://drive.google.com/file/d/166xJmxUSOH-RG38OuWEifYNKinDXYyhZ/view)__
 
